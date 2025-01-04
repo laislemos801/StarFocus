@@ -4,8 +4,8 @@
 
 # Sumário
 - [Sobre o projeto](#Sobre-o-projeto)
-- [Instalação](#Objetivo)
-- [Como Usar](#Motivação)
+- [Objetivo](#Objetivo)
+- [Motivação](#Motivação)
 - [Funcionalidades](#funcionalidades)
 - [Interface gráfica](#Interface-gráfica)
 - [Tecnologias utilizadas](#Tecnologias-Utilizadas)
